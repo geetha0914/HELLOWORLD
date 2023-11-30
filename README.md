@@ -1,9 +1,13 @@
 # HELLOWORLD
+
 ***CREATING JENKINS SERVER USING TERRAFORM***
+
 ![Screenshot (222)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/ae0bbb00-f047-4ed4-8c0c-293b492083d8)
 ![Screenshot (231)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/753359c0-c23e-4754-9e68-03e6230dbedb)
 ![Screenshot (318)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/9d66d8f1-a643-408f-a313-1514650d6d25)
+
 ***INSTALLED JEKINS FROM OFFICIAL WEBSITE***
+
 ![Screenshot (233)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/3b09612f-6df5-4357-b55e-99df053ff3e7)
 ![Screenshot (234)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/eee27c56-9c55-4bf1-beb6-9b04d05e806a)
 ![Screenshot (236)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/0c9ef077-6110-482e-abad-f7fb102cf51f)
@@ -20,14 +24,22 @@
 ![Screenshot (297)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/d445de1e-f334-4448-bb77-a41607fc4620)
 ![Screenshot (298)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/2b6848b0-6102-4da0-b3d2-beb988342c12)
 ![Screenshot (299)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/56f57736-e107-40f9-a470-1a3ee0bad21d)
+
+**EMPTY REPOSITORY**
+
 ![Screenshot (270)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/a4102104-fc07-441f-a8af-e498b7e60252)
+
+**PUSHED DOCKER IMAGE TO DOCKERHUB**
+
 ![Screenshot (274)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/65d0d1e2-a68e-4fc8-8b1a-8f45cb4e8b41)
 
-MONITORED SERVER USING THE TOOLS PROMETHEUS,GRAFANA
+**MONITORED SERVER USING THE TOOLS PROMETHEUS,GRAFANA**
+
 ![Screenshot (309)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/16c856ac-38c3-4419-9858-6aad60adb10a)
 ![Screenshot (310)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/57b4d04f-e2fc-43b9-97ed-9f30ba7c9c6f)
 ![Screenshot (311)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/f43bcc09-3cfc-4c3d-95be-96fee6dfaec8)
 ![Screenshot (312)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/98250b10-2c7b-4251-b65d-9ef3355c2da8)
 
 **SUCCESSFULLY DEPLOYED HELLOWORLD**
+
 ![Screenshot (314)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/7586c7ed-4057-4377-af1e-2786e2907dd1)
