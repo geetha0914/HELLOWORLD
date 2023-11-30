@@ -25,6 +25,15 @@ TOOLS USED:
 ![Screenshot (262)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/a2fe8267-f7a9-4c0c-b799-0e4c18c15254)
 ![Screenshot (265)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/f72008ff-2067-4b07-938b-dfedfd50c4d7)
 ![Screenshot (267)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/81e8b697-480f-4780-a415-a4b7bd793b09)
+
+***INSTALLED KUBERNETES USING KUBEADM AND ATTACHED THE NODE***
+
+![Screenshot (320)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/5e57b4ee-c4c4-4aec-85de-e7577333bff5)
+![Screenshot (321)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/298102b0-9650-49e8-b61e-9b461c68324f)
+![Screenshot (322)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/99407ebb-3f15-4006-a229-3d0b6b1d15bb)
+
+*****BUILD THE JENKINS PIPELINE(JENKINS)****
+
 ![Screenshot (291)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/06837037-0e2c-4372-95fc-721c83ff990a)
 ![Screenshot (293)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/f5aa3409-196a-4947-b207-dbda6c055ba4)
 ![Screenshot (294)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/0c4c4dfe-8c96-4dc3-8dd9-87cb8867a159)
