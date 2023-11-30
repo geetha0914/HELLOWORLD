@@ -16,3 +16,20 @@ pipeline {
    }
 }
 }
+
+ stage ('docker image creation') {
+    steps {
+      sh 'docker build -t gpavankumarreddy/helloworld .'
+      }
+  }
+
+  stage('docker push') {
+      steps {
+        withCredentials([usernamePassword(credentialsId: '2fc5dfbf-5f53-4690-806e-1284a462ec7c', passwordVariable: 'Devops@1998', usernameVariable: 'gpavankumarreddy')]) {
+        sh "docker login -u ${env.dockerHubUser} -p ${env.dockerHubPassword}"
+        }
+      sh 'docker push gpavankumarreddy/helloworld:latest'
+    }
+  }
+}
+}
