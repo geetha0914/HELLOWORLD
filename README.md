@@ -28,6 +28,7 @@ TOOLS USED:
 
 ***INSTALLED KUBERNETES USING KUBEADM AND ATTACHED THE NODE***
 
+![Screenshot (342)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/5686f4da-7355-400d-a926-325dd34235bf)
 ![Screenshot (320)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/5e57b4ee-c4c4-4aec-85de-e7577333bff5)
 ![Screenshot (321)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/298102b0-9650-49e8-b61e-9b461c68324f)
 ![Screenshot (322)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/99407ebb-3f15-4006-a229-3d0b6b1d15bb)
