@@ -1,8 +1,9 @@
 # HELLOWORLD
-CREATING JENKINS SERVER USING TERRAFORM
+***CREATING JENKINS SERVER USING TERRAFORM***
 ![Screenshot (222)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/ae0bbb00-f047-4ed4-8c0c-293b492083d8)
 ![Screenshot (231)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/753359c0-c23e-4754-9e68-03e6230dbedb)
-![Screenshot (232)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/bfb9fa48-a9e2-49f4-8270-ed0067461625)
+![Screenshot (318)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/9d66d8f1-a643-408f-a313-1514650d6d25)
+***INSTALLED JEKINS FROM OFFICIAL WEBSITE***
 ![Screenshot (233)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/3b09612f-6df5-4357-b55e-99df053ff3e7)
 ![Screenshot (234)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/eee27c56-9c55-4bf1-beb6-9b04d05e806a)
 ![Screenshot (236)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/0c9ef077-6110-482e-abad-f7fb102cf51f)
