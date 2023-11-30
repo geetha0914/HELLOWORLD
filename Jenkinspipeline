@@ -14,9 +14,6 @@ pipeline {
        sh 'mvn package'
      }
    }
-}
-}
-
  stage ('docker image creation') {
     steps {
       sh 'docker build -t gpavankumarreddy/helloworld .'
