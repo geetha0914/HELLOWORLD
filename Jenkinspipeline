@@ -22,7 +22,7 @@ pipeline {
 
   stage('docker push') {
       steps {
-        withCredentials([usernamePassword(credentialsId: '2fc5dfbf-5f53-4690-806e-1284a462ec7c', passwordVariable: 'Devops@1998', usernameVariable: 'gpavankumarreddy')]) {
+        withCredentials([usernamePassword(credentialsId: 'DockerHub', passwordVariable: 'dockerHubPassword', usernameVariable: 'dockerHubUser')]) {
         sh "docker login -u ${env.dockerHubUser} -p ${env.dockerHubPassword}"
         }
       sh 'docker push gpavankumarreddy/helloworld:latest'
