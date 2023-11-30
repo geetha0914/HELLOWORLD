@@ -28,5 +28,5 @@ MONITORED SERVER USING THE TOOLS PROMETHEUS,GRAFANA
 ![Screenshot (311)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/f43bcc09-3cfc-4c3d-95be-96fee6dfaec8)
 ![Screenshot (312)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/98250b10-2c7b-4251-b65d-9ef3355c2da8)
 
-SUCCESSFULLY DEPLOYED HELLOWORLD
+**SUCCESSFULLY DEPLOYED HELLOWORLD**
 ![Screenshot (314)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/7586c7ed-4057-4377-af1e-2786e2907dd1)
