@@ -28,7 +28,7 @@ pipeline {
       sh 'docker push gpavankumarreddy/helloworld:latest'
     }
   }
-    stage("deploy to kubernetes'){
+ stage("deploy to kubernetes') {
    steps {
         sshagent(["prod-server"]) { 
          sh "scp - StrictHostKeyChecking-no depsvc.yaml ubuntu@ip-172-31-3-223:/home/ubuntu
