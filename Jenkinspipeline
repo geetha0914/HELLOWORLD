@@ -31,7 +31,7 @@ pipeline {
  stage("deploy to kubernetes'){
    steps{
         sshagent(['cluster']) { 
-         sh "scp - StrictHostKeyChecking-no nodejsapp.yani ubuntu@ip-172-31-2-98:/home/ubuntu
+         sh "scp - StrictHostKeyChecking-no depsvc.yaml ubuntu@ip-172-31-2-98:/home/ubuntu
          script(
              try(
                 sh 'ssh ubuntu@ip-172-31-2-98 sudo kubectl apply -f .'
