@@ -21,8 +21,12 @@ CREATING JENKINS SERVER USING TERRAFORM
 ![Screenshot (299)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/56f57736-e107-40f9-a470-1a3ee0bad21d)
 ![Screenshot (270)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/a4102104-fc07-441f-a8af-e498b7e60252)
 ![Screenshot (274)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/65d0d1e2-a68e-4fc8-8b1a-8f45cb4e8b41)
+
+MONITORED SERVER USING THE TOOLS PROMETHEUS,GRAFANA
+![Screenshot (309)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/16c856ac-38c3-4419-9858-6aad60adb10a)
 ![Screenshot (310)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/57b4d04f-e2fc-43b9-97ed-9f30ba7c9c6f)
 ![Screenshot (311)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/f43bcc09-3cfc-4c3d-95be-96fee6dfaec8)
 ![Screenshot (312)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/98250b10-2c7b-4251-b65d-9ef3355c2da8)
+
 SUCCESSFULLY DEPLOYED HELLOWORLD
 ![Screenshot (314)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/7586c7ed-4057-4377-af1e-2786e2907dd1)
