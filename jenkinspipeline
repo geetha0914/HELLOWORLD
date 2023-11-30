@@ -1,0 +1,16 @@
+pipeline {
+  agent any
+
+   stages {
+
+   stage ('checkout') {
+     steps {
+      git credentialsId: '2fc5dfbf-5f53-4690-806e-1284a462ec7c', url: 'https://github.com/gaddypavan/HELLOWORLD.git'
+     }
+   }
+   stage ('maven build') {
+     steps {
+       echo 'maven build'
+       sh 'mvn package'
+     }
+   }
