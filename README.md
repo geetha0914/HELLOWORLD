@@ -44,8 +44,13 @@ TOOLS USED:
 ![Screenshot (341)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/6f654205-d8c7-42ee-82d9-52901b257aa6)
 ![Screenshot (340)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/9666bf36-d4be-4b4e-b1a7-037284ca92ef)
 
+***SETUP WEBHOOK ON GITHUB(FOR ALTERNATE TRIGGERS)***
+
+![Screenshot (287)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/1fedd8ac-df52-42af-8b7a-11d1c61ab129)
+
 
 **EMPTY REPOSITORY**
+
 
 ![Screenshot (270)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/a4102104-fc07-441f-a8af-e498b7e60252)
 
