@@ -28,19 +28,10 @@ pipeline {
       sh 'docker push gpavankumarreddy/helloworld:latest'
     }
   }
-stage("deploy to kubernetes") {
+ stage('Running the container') {
     steps {
-        sshagent(['k8s']) {
-            script {
-                try {
-                    sh 'scp -o StrictHostKeyChecking=no depsvc.yaml ubuntu@ip-172-31-3-223:/home/ubuntu'
-                    sh 'ssh ubuntu@ip-172-31-3-223 sudo kubectl apply -f /home/ubuntu/depsvc.yaml'
-                } catch (Exception e) {
-                    sh 'ssh ubuntu@ip-172-31-3-223 sudo kubectl create -f /home/ubuntu/depsvc.yaml'
-                }
-            }
-        }
-      }
-     }
+      sh 'docker run -d -p 8081:8080 --name helloworld gpavankumarreddy:latest'
     }
-  }
+   }
+ }
+}
