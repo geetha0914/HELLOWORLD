@@ -1,1 +1,3 @@
 # HELLOWORLD
+CREATING JENKINS SERVER USING TERRAFORM
+![Screenshot (222)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/ae0bbb00-f047-4ed4-8c0c-293b492083d8)
