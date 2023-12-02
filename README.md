@@ -14,8 +14,11 @@ TOOLS USED:
 ***CREATING JENKINS SERVER USING TERRAFORM***
 
 ![Screenshot (222)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/ae0bbb00-f047-4ed4-8c0c-293b492083d8)
-![Screenshot (214)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/e162c69b-7b43-4d3b-b106-d12b2617b5f1)
-![Screenshot (215)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/1ce59129-5977-4717-814c-adf37033daa9)
+![Screenshot (211)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/188dfc64-7674-4050-9cb5-616b7f9d15a2)
+![Screenshot (212)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/82cce874-54ce-4ee0-aef6-e1f798e10a21)
+![Screenshot (213)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/0c396b2c-d624-4dc9-b03b-ddb575658403)
+![Screenshot (214)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/fbfd3921-a942-4aa9-ab78-2846f6693cb2)
+![Screenshot (215)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/b38c36e2-bdbc-4948-a17a-326af4ac50f8)
 ![Screenshot (231)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/753359c0-c23e-4754-9e68-03e6230dbedb)
 ![Screenshot (318)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/9d66d8f1-a643-408f-a313-1514650d6d25)
 
