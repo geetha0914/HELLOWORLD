@@ -14,6 +14,8 @@ TOOLS USED:
 ***CREATING JENKINS SERVER USING TERRAFORM***
 
 ![Screenshot (222)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/ae0bbb00-f047-4ed4-8c0c-293b492083d8)
+![Screenshot (214)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/e162c69b-7b43-4d3b-b106-d12b2617b5f1)
+![Screenshot (215)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/1ce59129-5977-4717-814c-adf37033daa9)
 ![Screenshot (231)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/753359c0-c23e-4754-9e68-03e6230dbedb)
 ![Screenshot (318)](https://github.com/gaddypavan/HELLOWORLD/assets/122382391/9d66d8f1-a643-408f-a313-1514650d6d25)
 
