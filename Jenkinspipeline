@@ -5,7 +5,7 @@ pipeline {
 
    stage ('checkout') {
      steps {
-      git credentialsId: '2fc5dfbf-5f53-4690-806e-1284a462ec7c', url: 'https://github.com/gaddypavan/HELLOWORLD.git'
+     git 'https://github.com/geetha0914/HELLOWORLD.git'
      }
    }
    stage ('maven build') {
