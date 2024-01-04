@@ -16,7 +16,7 @@ pipeline {
    }
  stage ('docker image creation') {
     steps {
-      sh 'docker build -t gpavankumarreddy/helloworld .'
+      sh 'docker build -t geetha0914/helloworld .'
       }
   }
 
